@@ -7,7 +7,7 @@ Ich habe es geschrieben, da ich mit der Darstellungsweise der am meisten genutzt
 
 # Screenshot
 ![Interface](Images/Wahlergebnisse_Scraper – Main.java 19_09_2026 11_26_57.png)
-
+![Terminal](Images/Wahlergebnisse_Scraper – Main.java 19_09_2026 11_26_57.png)
 
 # Features
 - Scrapen der Website mit JSoup
