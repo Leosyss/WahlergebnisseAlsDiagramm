@@ -6,7 +6,7 @@ Dieses Programm scraped automatisch die aktuellen durchschnittlichen Bundeswahle
 Ich habe es geschrieben, da ich mit der Darstellungsweise der am meisten genutzten, aktuellsten und vermutlich vertrauenswürdigsten Website der Sonntagsfrage unzufrieden war, weil auf ihr ein Diagramm und die Durchschnittswerte der Parteien fehlten, und natürlich, um selbst mit Scrapern, UIs und anderem in Java zu lernen.
 
 # Screenshot
-
+![Interface](Images/Wahlergebnisse_Scraper – Main.java 19_09_2026 11_26_57.png)
 
 
 # Features
